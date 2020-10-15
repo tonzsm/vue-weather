@@ -55,4 +55,9 @@ li {
 a {
   color: #42b983;
 }
+p {
+  color: navy;
+  text-indent: 30px;
+  text-transform: uppercase;
+}
 </style>
